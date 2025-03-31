@@ -5,3 +5,6 @@
 ```javascript
 console.log("nya")
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [X] Introduce myself to the world
